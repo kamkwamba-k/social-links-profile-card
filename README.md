@@ -32,7 +32,7 @@ A simple and elegant social links profile card built using HTML and CSS. This ca
 
 ## Links
 
-- Live Site URL: [social link profile card](https://your-live-site-url.com)
+- Live Site URL: [social link profile card](https://social-links-profile-card-100.netlify.app/)
 
 ## License
 This project is licensed under the MIT License. 
